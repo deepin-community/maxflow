@@ -1,0 +1,18 @@
+Reference:
+ - Author: Yuri Boykov and Vladimir Kolmogorov
+   Title: >
+    An Experimental Comparison of Min-Cut/Max-Flow Algorithms for Energy
+    Minimization in Vision
+   Journal: IEEE Transactions on Pattern Analysis and Machine Intelligence
+   Year: 2004
+   Volume: 6
+   Number: 9
+   Pages: 1124 - 1137
+   DOI: 10.1109/TPAMI.2004.60
+   ePrint: http://www.csd.uwo.ca/~yuri/Papers/pami04.pdf
+ - Author: Pushmeet Kohli and Philip H.S. Torr
+   Title: Efficiently Solving Dynamic Markov Random Fields Using Graph Cuts.
+   Journal: International Conference on Computer Vision (ICCV)
+   Year: 2005
+   ePrint: >
+    http://research.microsoft.com/en-us/um/people/pkohli/papers%5Ciccv05.pdf

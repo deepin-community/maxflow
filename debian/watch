@@ -1,0 +1,7 @@
+version=3
+
+# Uncomment to find new files on Github
+#  - when using releases:
+opts=filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/maxflow-$1\.tar\.gz/  \
+https://github.com/gerddie/maxflow/releases .*/archive/(\d[\d.-]+)\.(?:tar(?:\.gz|\.bz2)?|tgz)
+
